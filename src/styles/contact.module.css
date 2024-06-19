@@ -1,0 +1,41 @@
+.main{
+  position: relative;
+  /* display: flex; */
+}
+  
+.form {
+ position: absolute;
+ display: grid;
+ width: 30%;
+ gap: 10px;
+ font-size: large;
+ /* border: 2px solid black; */
+ border-radius: 10px;
+ box-shadow: 10px 10px 5px goldenrod;
+} 
+  
+.form input {
+  width: 80%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+  
+.form button {
+ display: block;
+ width: 20%;
+ padding: 10px 15px;
+ border: 0;
+ background: #333;
+ color: #fff;
+ border-radius: 5px;
+ margin: 5px 0;
+ cursor: pointer;
+}
+  
+.form button:hover {
+ background: #444;
+}
+  
+  

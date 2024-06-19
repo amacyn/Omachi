@@ -1,0 +1,33 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Teddy Bomber",
+        "price": 200,
+        "image": "/images/teddy-bomber.jpg",
+        "description": "A stylish teddy bomber jacket."
+      },
+      {
+        "id": 2,
+        "name": "Sleeve Corset Top",
+        "price": 100,
+        "image": "/images/sleeve-corset-top.jpg",
+        "description": "A chic sleeve corset top."
+      },
+      {
+        "id": 3,
+        "name": "Satin Tea Dress",
+        "price": 120,
+        "image": "/images/satin-tea-dress.jpg",
+        "description": "A beautiful satin tea dress."
+      },
+      {
+        "id": 4,
+        "name": "Rib Scoop Neck Bodysuit",
+        "price": 110,
+        "image": "/images/rib-scoop-neck-bodysuit.jpg",
+        "description": "A comfortable rib scoop neck bodysuit."
+      }
+    ]
+  }
+  
